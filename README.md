@@ -1,6 +1,6 @@
 Certainly, here's a sample `README.md` file for your project:
 
-```markdown
+
 # internsctl - Custom Linux Command
 
 ## Overview
@@ -30,7 +30,6 @@ Certainly, here's a sample `README.md` file for your project:
    ```bash
    internsctl --help
    ```
-
 - Display the version of `internsctl`:
 
    ```bash
@@ -91,25 +90,25 @@ Certainly, here's a sample `README.md` file for your project:
    internsctl file getinfo <file-name>
    ```
 
-   - To get the size of the specified file:
+- To get the size of the specified file:
 
      ```bash
      internsctl file getinfo --size <file-name>
      ```
 
-   - To get the permissions of the specified file:
+- To get the permissions of the specified file:
 
      ```bash
      internsctl file getinfo --permissions <file-name>
      ```
 
-   - To get the owner of the specified file:
+- To get the owner of the specified file:
 
      ```bash
      internsctl file getinfo --owner <file-name>
      ```
 
-   - To get the last modified time of the specified file:
+- To get the last modified time of the specified file:
 
      ```bash
      internsctl file getinfo --last-modified <file-name>
@@ -127,14 +126,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 You can customize this `README.md` file to include specific details about your project, such as installation instructions and usage examples.
 
 
-
+```
 ##ScreenShots
-https://files.catbox.moe/3xze1j.jpeg
 
-https://files.catbox.moe/m4c617.jpeg
 
-https://files.catbox.moe/5jwdm4.jpeg
+![image](https://github.com/amitsahu03/custom-linux-cmd/assets/83271864/520d6898-e86c-4292-9b2e-09a1609bd563)
 
-https://files.catbox.moe/lcct88.jpeg
+![image](https://github.com/amitsahu03/custom-linux-cmd/assets/83271864/b7f53385-47e8-418c-b4c6-fd393e040684)
 
-https://files.catbox.moe/jho4hn.jpeg
+![image](https://github.com/amitsahu03/custom-linux-cmd/assets/83271864/bd4a7610-2841-4470-8c92-1f4b328e4a47)
+
+![image](https://github.com/amitsahu03/custom-linux-cmd/assets/83271864/e8b68e55-e09e-4bb8-b7b0-bb73d0e4fbea)
+
+![image](https://github.com/amitsahu03/custom-linux-cmd/assets/83271864/48fa48e0-d9fb-422b-a552-135780748179)
+
+
+
